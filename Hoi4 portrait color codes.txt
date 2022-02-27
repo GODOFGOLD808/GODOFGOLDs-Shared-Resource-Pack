@@ -31,8 +31,8 @@ Body:
 
 -Sclera (Eyes)
 153
-153
-153
+125
+125
 
 -Pupil (Eyes)
 0
@@ -47,6 +47,12 @@ Body:
 -Blue (Eyes)
 102
 153
+153
+
+or
+
+102
+121
 153
 
 Clothes:
