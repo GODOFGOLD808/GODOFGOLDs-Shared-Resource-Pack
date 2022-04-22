@@ -1,17 +1,15 @@
 Shared content of this get's a shoutout:
 
 Teams of:
--Imperatoria
+-Imperiale Saeculum
 -aom-shared-assets-master
 -Icons-master
 
 Credit goes to them for making these
 
 My files:
--GODOFGOLD-Icon-Builder
+-GODOFGOLD-GFX-Builder
 -interface-stuff
-
-
 
 Licences Below:
 
